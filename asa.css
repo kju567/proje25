@@ -1,0 +1,77 @@
+.kapsayıcı{
+         text-align: center;
+         background-color: antiquewhite;
+         border-radius: 100px;
+}
+body{
+    background-image: url(a.jpg);
+    background-size:cover ;
+    background-attachment: fixed;
+}
+.metin{
+    float: left;
+     background-color: rgb(233, 150, 122);
+     margin-top: 10px;
+     border-radius: 94px;
+     text-align: center;
+     width: 170px;
+     height: 700px;
+     margin-left: 50px;
+     color: rgb(0, 0, 0);
+
+}
+h1,h2{
+        color: rgb(61, 12, 59);
+       
+}
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kapsayıcıbilgiyazı{
+  font-size: 30px;
+}
+
+nav.menü{
+     float: right;
+     margin-top: -150px;
+     margin-right: 100px;
+}
+nav.menü ul{
+       list-style: none;
+}
+nav.menü ul li{
+     float: left;
+}nav.menü ul li a{
+        text-decoration: none;
+        background-color: rgb(0, 255, 170);
+        color: rgb(0, 0, 0);
+        border-radius: 10px;
+        padding: 8px 16px;
+        margin-left: 20px;
+
+}
+h1.coolyazı{
+    margin-left: 100px;
+    color: aquamarine;
+}
+.metin{
+    margin-left: 100px;
+}
+.kapsametin{
+             margin-left: 20%;
+
+}
+.coolyazı{
+    font-size: 70px;
+}
+nav.menü{
+    font-size: 40px;
+}
+.metinmetin{
+    font-size: 25px;
+}
